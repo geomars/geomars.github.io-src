@@ -115,6 +115,7 @@ PLUGINS = ['assets', 'sitemap', 'extract_toc', 'gravatar']
 (pelicanpy2) tarzan@cave:~/auuow/banana$ git add .
 (pelicanpy2) tarzan@cave:~/auuow/banana$ git commit -m "Edit configuration"
 (pelicanpy2) tarzan@cave:~/auuow/banana$ touch content/pages/test_post.md
+(pelicanpy2) tarzan@cave:~/auuow/banana$ geany content/pages/test_post.md
 ```
 
 
